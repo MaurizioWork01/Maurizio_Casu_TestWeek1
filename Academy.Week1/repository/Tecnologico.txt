@@ -1,0 +1,4 @@
+﻿h6,ciao,55,ciao2,false
+t6,Monitor,100,Samsung,true
+f3,Tastiera,800,marca,true
+f3,Mouse,550,Samsung,true
